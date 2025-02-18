@@ -23,8 +23,8 @@ Example data can be found in the /backend/example/EQrecords directory.
 - Function: Provides an API to invoke the magnitude estimation deep learning model. After the user uploads the seismic records, the estimated magnitude results will be returned.
 - Deployment: Configure the MySQL connection and run /code/app.py
 ## 5. API and Frontend
-- Function: app.py provides all the APIs for frontend-backend interaction, and Frontend provides an intuitive display of magnitude estimation,
-Deployment: app.py can be found in /code  directory, Frontend related code can be found in /frontend Relevant programs can be found in /frontend directories.
+- Function: app.py provides all the APIs for frontend-backend interaction, and Frontend provides an intuitive display of magnitude estimation.
+- Deployment: app.py can be found in /code  directory, Frontend related code can be found in /frontend Relevant programs can be found in /frontend directories.
 ## 6. Supporting Literature
 - WANG Z F, LIAO J A, WANG Y W, et al. A fast magnitude estimation method based on deep convolutional neural networks[J]. Chinese Journal of Geophysics, 2023, 66(1): 272-288.
 - Dongliang W, Yanwei W, Zifa W, et al. A fast estimation method of earthquake magnitude based on convolutional neural networks[J]. Acta Seismologica Sinica, 2022, 44(2): 316-326.

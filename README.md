@@ -1,6 +1,6 @@
 # MESCNN: Magnitude Estimation System Based on Convolutional Neural Networks
 ## 1. System Functionality
-MECNN is a fast magnitude estimation system that performs magnitude estimation on user-uploaded seismic acceleration records using an embedded deep learning model. It provides visualized estimation results.
+MESCNN is a fast magnitude estimation system that performs magnitude estimation on user-uploaded seismic acceleration records using an embedded deep learning model. It provides visualized estimation results.
 ## 2. Environment Requirements
 - Operating System: Windows
 - Python: Version 3.9 or higher
